@@ -1,8 +1,7 @@
-# TP_Projet_L3S6_SHARFELDIN_TRAORE 
+# TP_Projet_L3S6_TRAORE 
 
 # Author:
     - Adama TRAORE
-    - Esam SHARFELDIN
 
 # Sujet
 
