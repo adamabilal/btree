@@ -14,7 +14,7 @@ Pour executer le programme :
 2. on se place dans le dossier  `src` de la racine du projet où sont définies toutes nos classes 
 
 ```console
-$ cd tp_projet_l3s6_sharfeldin_traore/src
+$ cd racine du projet /src
 ```
 3. on execute les commandes :
 
